@@ -8,6 +8,7 @@ O software é responsável por executar a conexão com um servidor cPanel via AP
 A API aceita dois tipo de entradas, uma  via xml e outra via json, a documentação mesmo aconselha que seja utilizado o json para a conexão.
 Como está é a primeira versão ainda existem bugs ou pequenos detalhes a serem corrigidos e melhorados.
 Toda a parte da documentação pode ser encontrada em alguns dos links abaixo.
+Lembrando que para um bom funcionamento, o software deve ser utilizado em uma hospedagem, pois determinados servidores não aceitão a conexão via localhost.
 Estou aberto a críticas elogios e sugestões. 
 
 Referencias  : 
