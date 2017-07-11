@@ -1,0 +1,18 @@
+.div_form_servico{
+	margin-top:15%;	
+}
+.div_form{
+ 	margin-top:15%;	 	 
+}
+
+.btn_servico{
+	background-color: #FFF;
+	color:#14679E;
+	border-color: #14679E;
+	margin-right: 5px;
+}
+.btn_servico:hover{
+	background-color: #14679E;
+	color:#FFF;
+	
+}
