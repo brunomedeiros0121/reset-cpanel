@@ -3,8 +3,8 @@ Software para reboot de serviços via API para  servidores cPanel.
 
 Versão 1.0.
 
-Desenvolvido fins de aprendizado.
-O software é responsável por executar a conexão com um servidor cPanel via API, assim podendo realizar o reboot dos serviços instalados no servidor. Ex :  http,Mysql,POP3,Exim dentre vários outros, onde pode ser encontrados nesta link https://documentation.cpanel.net/display/60Docs/WHM+Scripts .
+Desenvolvido para fins de aprendizado.
+O software é responsável por executar a conexão com um servidor cPanel via API, assim realizando o reboot dos serviços instalados no servidor. Ex :  http,Mysql,POP3,Exim dentre vários outros, onde pode ser encontrados nesta link https://documentation.cpanel.net/display/60Docs/WHM+Scripts .
 A API aceita dois tipo de entradas, uma  via xml e outra via json, a documentação mesmo aconselha que seja utilizado o json para a conexão.
 Como está é a primeira versão ainda existem bugs ou pequenos detalhes a serem corrigidos e melhorados.
 Toda a parte da documentação pode ser encontrada em alguns dos links abaixo.
